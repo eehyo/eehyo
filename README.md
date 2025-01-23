@@ -17,7 +17,7 @@
 - MINDs and company Internship, AI Engineer Intern *2024. 08. ~ now*
 
 ### 🔬 Research Area
-- Large Language Models, Multimodal Learning, HCI
+- Large Language Models, Multimodal Learning
   
 ### ⚙️ Tech Stacks
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;
