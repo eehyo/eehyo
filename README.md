@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=EEHYO's%20Github&descAlignY=35&descAlign=66&fontSize=49&fontAlign=73&fontAlignY=40&textBg=false)
 
 ### Welcome to eehyo's Github 🕊️ 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feehyo%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits%21&edge_flat=false"/></a>
 
 ---
 ### ⚡Contact Me
@@ -14,7 +13,7 @@
 ### 👩‍💻 Career
 - B.S. Mechanical Engineering & IT Engineering in Sookmyung Women's Univ *2020. 03. ~ 2025. 02.*
 - Undergraduate Intern in IBS LAB *2024. 01. ~ 2024. 04.*
-- MINDs and company Internship, AI Engineer Intern *2024. 08. ~ now*
+- MINDs and company Internship, AI Engineer Intern *2024. 08. ~ 2025. 03.*
 
 ### 🔬 Research Area
 - Large Language Models, Multimodal Learning
@@ -39,10 +38,4 @@
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=HuggingFace&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp;
 
-<br>
-<div>
-  
-![EEHYO's GitHub stats](https://github-readme-stats.vercel.app/api?username=eehyo&show_icons=true&theme=shadow_green)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eehyo&show_icons=true&theme=shadow_green)](https://github.com/eehyo/github-readme-stats)
-</div>
 
